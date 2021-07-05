@@ -1,0 +1,40 @@
+body{
+    font-family: 'Merienda', cursive;
+    margin: 0;
+}
+
+h1{
+    font-size: 40px;
+}
+
+.flex-display{
+    display: flex;
+    margin-left: 60px;  
+}
+
+.half-width{
+    width: 40%;
+    padding: 5%
+}
+.half-width img{
+    width: 90%;
+}
+
+.span-color{
+    color: rgb(27, 118, 148);
+}
+.upperRight-background{
+    background-image: url(images/shapes/backgroundStyle.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 60%;
+}
+
+.order-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(6, 64, 83), lightblue);
+    color: white;
+    padding: 8px 20px;
+    border-radius: 20px;
+
+}
