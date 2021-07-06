@@ -12,6 +12,13 @@ body{
     padding: 10px;
     font-weight: 500;
 }
+#website-name{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: left;
+    font-size: 23px;
+    margin: 0px;
+    padding: 20px;  
+}
 .flex-display{
     display: flex;
     margin-bottom: 50px; 
@@ -75,7 +82,7 @@ p{
     box-shadow: 10px 10px 8px gray;
 }
 .contract-us-section{
-    margin: 20px 200px;
+    margin: 80px 200px;
     padding: 10px;
     border: 7px solid rgb(6, 64, 83);
     border-radius: 20px;
