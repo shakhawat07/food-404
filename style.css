@@ -38,3 +38,20 @@ h1{
     border-radius: 20px;
 
 }
+
+.middle-section{
+    background-image: url(images/shapes/backgroundFrame.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position:initial;
+}
+
+
+
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
