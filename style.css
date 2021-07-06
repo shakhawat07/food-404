@@ -20,7 +20,7 @@ h1{
     
 }
 .half-width img{
-    width: 80%;
+    width: 100%;
 }
 
 .span-color{
@@ -59,12 +59,11 @@ h1{
 .recipe-details{
     align-items: center;
     text-align: left;
-    border: 1px solid;
-    border-color: white;
+    border: 1px solid white;
     margin: 30px 60px;
     padding: 20px;
     border-radius: 20px;
-    box-shadow: 15px 5px 20px gray;
+    box-shadow: 10px 10px 8px gray;
 
 }
 
