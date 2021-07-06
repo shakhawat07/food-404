@@ -74,6 +74,20 @@ p{
     border-radius: 20px;
     box-shadow: 10px 10px 8px gray;
 }
+.contract-us-section{
+    margin: 20px 200px;
+    padding: 10px;
+    border: 7px solid rgb(6, 64, 83);
+    border-radius: 20px;
+    box-shadow: 10px 10px 8px gray;
+
+}
+.text-field-space{
+    margin-bottom: 5px;
+}
+strong{
+    font-size: 18px;
+}
 footer{
     background-image: linear-gradient(black, lightblue);
     background-size: cover;
